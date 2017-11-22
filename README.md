@@ -1,4 +1,7 @@
 
 ## Step
->npm i -g tfx-cli
->tfx extension create --manifest-globs vss-extension.json
+```
+npm i -g tfx-cli
+```
+tfx extension create --manifest-globs vss-extension.json
+```
